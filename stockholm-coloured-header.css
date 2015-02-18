@@ -1,7 +1,11 @@
-.navbar {  margin-bottom:0;  }
-.bar-navigation {  margin-bottom: 20px;  }
+/* Stockholm Coloured Header */
+/* Change background-color and color to the desired colours */
+/* Use http://www.colorpicker.com/ to help you choose the 6 character colour code - Make sure you include the # */
 .bar-navigation, .navbar, .navbar-spacer {  background-color: #2698D6;  }
 .bar-navigation .row {  background-color: #2186CE; }
-.nav-market .nav-market-item a { color: #ffffff; }
+.bar-navigation .nav-market-item a { color: #ffffff; }
 .bar-navigation, .bar-navigation .row {  box-shadow: inset 0 -18px 14px -14px rgba(0,0,0,0.2);  }
+.navbar {  margin-bottom:0;  }
+.bar-navigation {  margin-bottom: 20px;  }
 .nav-market-container {  margin-left: -15px;  }
+
