@@ -1,0 +1,4 @@
+@media screen and (min-width: 768px) {
+    .container>.navbar-header { width:50%; margin: 0 auto; float:none; }
+    .navbar>.container .navbar-brand { width: 50%; margin: 0 auto; display: block; text-align: center; float:none; }
+}
